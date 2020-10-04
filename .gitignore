@@ -2,5 +2,5 @@
 .classpath
 .project
 bin/
-.vscode/
+.settings
 
